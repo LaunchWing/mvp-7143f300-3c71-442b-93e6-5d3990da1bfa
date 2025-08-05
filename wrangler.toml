@@ -1,0 +1,7 @@
+name = "mvp-7143f300-3c71-442b-93e6-5d3990da1bfa"
+main = "functions/index.ts"
+compatibility_date = "2024-08-01"
+
+[[kv_namespaces]]
+binding = "SUBMISSIONS_KV"
+id = "369f238151d14f6b80bd046199b2bcf8"
